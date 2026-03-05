@@ -1,0 +1,10 @@
+# AnyDesk Client-Server System Requirements
+
+# Core dependencies (required for advanced features)
+pyautogui>=0.9.54
+pyperclip>=1.8.2
+Pillow>=10.0.0
+
+# Optional: For better Windows integration
+# pywin32>=305
+
